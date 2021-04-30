@@ -1,3 +1,4 @@
+//
 public class CompanySalary {
     public static void main(String args[]){
         Employee[]employee=new Employee[29];
